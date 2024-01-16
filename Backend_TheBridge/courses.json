@@ -1,0 +1,32 @@
+[
+    {
+        "title": "SpringBoot / Angular",
+        "price": 350,
+        "imageUrl": "images/SpringBoot & Angular.png"
+    },
+    {
+        "title": "Node JS / React",
+        "price": 350,
+        "imageUrl": "images/Node JS & React.png"
+    },
+    {
+        "title": "Flutter / Firebase",
+        "price": 350,
+        "imageUrl": "images/Flutter&Firebase.png"
+    },
+    {
+        "title": "Business Intelligence",
+        "price": 350,
+        "imageUrl": "images/Business Intelligence.jpeg"
+    },
+    {
+        "title": "Artificial Intelligence",
+        "price": 350,
+        "imageUrl": "images/AI.jpeg"
+    },
+    {
+        "title": "Deveops",
+        "price": 350,
+        "imageUrl": "images/Devops.jpeg"
+    }
+]
